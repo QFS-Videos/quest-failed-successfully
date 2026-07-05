@@ -33,5 +33,4 @@ h3{font-size:1.25rem;margin-bottom:10px}
 .notice{border-left:5px solid var(--gold);background:rgba(255,204,51,.09);padding:18px;border-radius:12px;margin:22px 0}
 footer{border-top:1px solid var(--border);padding:28px 0;color:#8e96ad;text-align:center;margin-top:40px}
 @media(max-width:760px){.nav-wrap{flex-direction:column}.grid,.feature{grid-template-columns:1fr}.hero{padding-top:34px}}
-body {outline: 5px solid red !important;
-}
+
